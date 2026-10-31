@@ -1,0 +1,136 @@
+Support request added.
+Support request added.
+Support request added.
+Reply added.
+Reply added.
+Reply added.
+
+=== ALL REQUESTS ===
+
+-------------------------
+Request ID: R001
+Customer: John
+Email: john@email.com
+Date: 2026-10-01
+Priority: High
+Status: Open
+Message: My account is locked.
+Replies:
+- We are checking your account.
+- Your account has been unlocked.
+- You can now log in again.
+-------------------------
+
+-------------------------
+Request ID: R002
+Customer: Sarah
+Email: sarah@email.com
+Date: 2026-10-02
+Priority: Normal
+Status: Open
+Message: I forgot my password.
+Replies:
+-------------------------
+
+-------------------------
+Request ID: R003
+Customer: John
+Email: john@email.com
+Date: 2026-10-03
+Priority: Normal
+Status: Open
+Message: My order has not arrived.
+Replies:
+-------------------------
+
+=== PROCESS QUEUE ===
+
+Processing request:
+ID: R001
+Customer: John
+Priority: High
+Message: My account is locked.
+
+=== UPDATE ===
+Request updated.
+
+=== UNDO ===
+Most recent update undone.
+
+=== SEARCH BY ID ===
+
+-------------------------
+Request ID: R003
+Customer: John
+Email: john@email.com
+Date: 2026-10-03
+Priority: Normal
+Status: Open
+Message: My order has not arrived.
+Replies:
+-------------------------
+
+=== SEARCH BY CUSTOMER ===
+
+-------------------------
+Request ID: R001
+Customer: John
+Email: john@email.com
+Date: 2026-10-01
+Priority: High
+Status: In Progress
+Message: My account is locked.
+Replies:
+- We are checking your account.
+- Your account has been unlocked.
+- You can now log in again.
+-------------------------
+
+-------------------------
+Request ID: R003
+Customer: John
+Email: john@email.com
+Date: 2026-10-03
+Priority: Normal
+Status: Open
+Message: My order has not arrived.
+Replies:
+-------------------------
+
+=== SORT BY PRIORITY ===
+
+-------------------------
+Request ID: R001
+Customer: John
+Email: john@email.com
+Date: 2026-10-01
+Priority: High
+Status: In Progress
+Message: My account is locked.
+Replies:
+- We are checking your account.
+- Your account has been unlocked.
+- You can now log in again.
+-------------------------
+
+-------------------------
+Request ID: R002
+Customer: Sarah
+Email: sarah@email.com
+Date: 2026-10-02
+Priority: Normal
+Status: Open
+Message: I forgot my password.
+Replies:
+-------------------------
+
+-------------------------
+Request ID: R003
+Customer: John
+Email: john@email.com
+Date: 2026-10-03
+Priority: Normal
+Status: Open
+Message: My order has not arrived.
+Replies:
+-------------------------
